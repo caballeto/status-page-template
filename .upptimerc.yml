@@ -9,8 +9,6 @@ sites:
   - name: Gawq Business API
     url: https://api.gawq.com
     icon: https://www.gawq.com/assets/img/favicon.png
-  - name: Google
-    url: https://www.google.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
