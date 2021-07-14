@@ -5,8 +5,10 @@ repo: status-page-template # The name of this repository
 sites:
   - name: Gawq
     url: https://www.gawq.com
+    icon: https://www.gawq.com/assets/img/favicon.png
   - name: Gawq Business API
     url: https://api.gawq.com
+    icon: https://www.gawq.com/assets/img/favicon.png
   - name: Google
     url: https://www.google.com
 
@@ -15,9 +17,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /status-page-template
   logoUrl: https://www.gawq.com/assets/img/logo-thumb.png
-  name: Gawq Status
+  name: Status
   introTitle: "**Gawq** is a news startup building consumer and business solutions."
-  introMessage: Gawq gathers hundreds of thousands of news articles daily, performs analysis and offers deep insights into what is happening in the world. Below is the website and API status of Gawq.
+  introMessage: Gawq gathers hundreds of thousands of news articles daily, performs analysis and offers deep insights into what is happening in the world.
   navbar:
     - title: Status
       href: /
