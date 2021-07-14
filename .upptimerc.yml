@@ -15,6 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /status-page-template
   logoUrl: https://www.gawq.com/assets/img/logo-thumb.png
+  favicon: https://www.gawq.com/assets/img/favicon.png
   name: Status
   introTitle: "**Gawq** is a news startup building consumer and business solutions."
   introMessage: Gawq gathers hundreds of thousands of news articles daily, performs analysis and offers deep insights into what is happening in the world.
