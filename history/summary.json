@@ -4,7 +4,7 @@
     "url": "https://www.gawq.com",
     "icon": "https://www.gawq.com/assets/img/favicon.png",
     "slug": "gawq",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 369,
     "timeMonth": 337,
     "timeYear": 317,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-07": 0
+    }
   },
   {
     "name": "Gawq Business API",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-07": 39,
+      "2021-09-07": 1334,
       "2021-09-06": 1440,
       "2021-09-05": 1440,
       "2021-09-04": 1440,
