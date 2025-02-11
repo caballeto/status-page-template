@@ -4,14 +4,14 @@
     "url": "https://www.gawq.com",
     "icon": "https://www.gawq.com/assets/img/favicon.png",
     "slug": "gawq",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "92.10%",
+    "uptimeDay": "93.65%",
     "uptimeWeek": "96.19%",
     "uptimeMonth": "95.77%",
     "uptimeYear": "99.51%",
     "time": 601,
-    "timeDay": 163,
+    "timeDay": 139,
     "timeWeek": 171,
     "timeMonth": 535,
     "timeYear": 601,
@@ -60,8 +60,7 @@
       "2024-12-22": 41,
       "2024-12-21": 20,
       "2024-12-20": 41,
-      "2024-12-15": 33,
-      "2024-12-14": 18
+      "2024-12-15": 33
     }
   },
   {
@@ -81,7 +80,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-11": 911,
+      "2025-02-11": 1320,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
