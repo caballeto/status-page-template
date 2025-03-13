@@ -6,8 +6,8 @@
     "slug": "gawq",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "94.15%",
-    "uptimeWeek": "96.15%",
+    "uptimeDay": "94.05%",
+    "uptimeWeek": "96.13%",
     "uptimeMonth": "96.93%",
     "uptimeYear": "99.47%",
     "time": 549,
@@ -16,7 +16,7 @@
     "timeMonth": 306,
     "timeYear": 549,
     "dailyMinutesDown": {
-      "2025-03-13": 0,
+      "2025-03-13": 2,
       "2025-03-12": 84,
       "2025-03-11": 120,
       "2025-03-08": 25,
@@ -82,7 +82,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-13": 72,
+      "2025-03-13": 74,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
