@@ -4,7 +4,7 @@
     "url": "https://www.gawq.com",
     "icon": "https://www.gawq.com/assets/img/favicon.png",
     "slug": "gawq",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "85.85%",
     "uptimeWeek": "94.87%",
@@ -62,7 +62,7 @@
       "2025-01-30": 52,
       "2025-01-29": 18,
       "2025-01-28": 27,
-      "2025-01-27": 68
+      "2025-01-27": 45
     }
   },
   {
@@ -82,7 +82,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-21": 1126,
+      "2025-03-21": 1241,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
