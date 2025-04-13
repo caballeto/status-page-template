@@ -4,19 +4,19 @@
     "url": "https://www.gawq.com",
     "icon": "https://www.gawq.com/assets/img/favicon.png",
     "slug": "gawq",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "88.42%",
-    "uptimeWeek": "96.31%",
-    "uptimeMonth": "95.63%",
+    "uptimeDay": "89.29%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "95.74%",
     "uptimeYear": "99.39%",
-    "time": 498,
+    "time": 499,
     "timeDay": 201,
-    "timeWeek": 198,
-    "timeMonth": 251,
-    "timeYear": 502,
+    "timeWeek": 202,
+    "timeMonth": 252,
+    "timeYear": 503,
     "dailyMinutesDown": {
-      "2025-04-13": 133,
+      "2025-04-13": 120,
       "2025-04-12": 34,
       "2025-04-11": 47,
       "2025-04-09": 58,
@@ -63,7 +63,8 @@
       "2025-02-21": 75,
       "2025-02-20": 26,
       "2025-02-19": 39,
-      "2025-02-16": 121
+      "2025-02-16": 121,
+      "2025-02-15": 25
     }
   },
   {
@@ -83,7 +84,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-13": 473,
+      "2025-04-13": 926,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
