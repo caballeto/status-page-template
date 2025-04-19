@@ -4,7 +4,7 @@
     "url": "https://www.gawq.com",
     "icon": "https://www.gawq.com/assets/img/favicon.png",
     "slug": "gawq",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "92.64%",
     "uptimeWeek": "92.88%",
@@ -83,7 +83,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-19": 81,
+      "2025-04-19": 297,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
